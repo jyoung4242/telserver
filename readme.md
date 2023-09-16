@@ -7,7 +7,6 @@ A local CLI that runs a data collection server locally for the telClient library
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
-- [Contributing](#contributing)
 
 ## Installation
 
